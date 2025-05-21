@@ -5,6 +5,8 @@
  * @authorId 415849376598982656
  * @description A proof of concept plugin demonstrating RSA encryption usage.
  * @changelogDate 2025-02-02
+ * @source https://github.com/VoidDeficit/RSAProofOfConcept.plugin/
+ * @updateUrl https://raw.githubusercontent.com/VoidDeficit/RSAProofOfConcept.plugin/refs/heads/main/RSAProofOfConcept.plugin.js
  */
 
 'use strict';
@@ -19,7 +21,7 @@ var manifest = {
     "author": "Olive",
     "authorId": "415849376598982656",
     "description": "A proof of concept plugin demonstrating RSA encryption usage",
-    //"source": "https://github.com/Strencher/BetterDiscordStuff/blob/master/RSAProofOfConcept/RSAProofOfConcept.plugin.js",
+    "source": "https://github.com/VoidDeficit/RSAProofOfConcept.plugin/",
     //"invite": "gvA2ree",
     "changelog": [{
             "title": "Improved rsaProofSettings",
