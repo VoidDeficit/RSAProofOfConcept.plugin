@@ -537,7 +537,7 @@ class RSAProofOfConcept {
         showChangelog(manifest);
         this.patchSendMessage();
         this.patchChannelTextArea();
-        this.patchMessages(); // ← Add this line
+        this.patchMessages();
         ensureOwnRsaKeyPairExists();
     }
 
